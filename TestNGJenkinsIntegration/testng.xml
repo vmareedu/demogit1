@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="TestNGJenkins"/>
+       <class name="TestNGJenkins"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
